@@ -1,0 +1,1 @@
+needs to have headsegmentationdataset_ccsna organized into image folder, labels folder and an empty segmented labels folder
